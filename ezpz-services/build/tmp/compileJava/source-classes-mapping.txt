@@ -1,0 +1,9 @@
+com/zsquare/ezpzservices/EzpzServicesApplication.java
+ com.zsquare.ezpzservices.EzpzServicesApplication
+com/zsquare/ezpzservices/model/ServiceProvider.java
+ com.zsquare.ezpzservices.model.ServiceProvider
+ com.zsquare.ezpzservices.model.ServiceProvider$ServiceProviderBuilder
+com/zsquare/ezpzservices/controller/ProvidersController.java
+ com.zsquare.ezpzservices.controller.ProvidersController
+com/zsquare/ezpzservices/api/ProvidersApi.java
+ com.zsquare.ezpzservices.api.ProvidersApi

@@ -1,0 +1,2 @@
+com/zsquare/ezpzservices/EzpzServicesApplicationTests.java
+ com.zsquare.ezpzservices.EzpzServicesApplicationTests
